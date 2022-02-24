@@ -40,10 +40,10 @@ http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="http://dusktill.masuk.web.id/img/rcti.png" group-title="Lokal",RCTI
+#EXTINF:0 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="http://dusktill.masuk.web.id/img/rcti.png" group-title="Lokal",RCTI (DINDA)
 https://on-load.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="http://dusktill.masuk.web.id/img/rcti.png" group-title="Lokal",RCTI (SD)
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="http://dusktill.masuk.web.id/img/rcti.png" group-title="Lokal",RCTI (ARRA)
 https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
