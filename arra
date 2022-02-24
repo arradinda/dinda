@@ -17,7 +17,8 @@ https://on-load.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 
 ##EXTINF:-1 tvg-id="NET.id" tvg-name="Net." tvg-logo="http://dusktill.masuk.web.id/img/net.png" group-title="Lokal",NET TV (HD)
-#https://iptv.mwafa.net/vidio/875/index.m3u8?token=1999
+#http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8
+https://iptv.mwafa.net/vidio/875/index.m3u8?token=1999
 
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/indosiar.png" group-title="Lokal",INDOSIAR
 #https://cubmu.superzap.xyz:8279/indosiar/playlist.m3u8
