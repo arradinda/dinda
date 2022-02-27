@@ -694,28 +694,13 @@ https://on-load.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 https://on-load.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #EXTINF:-1 tvg-name="Champion TV 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Champions_TV_1_%282021%29.png", group-title="Sports",Champions TV 1
-#http://tvn.x10.bz/vidio/master-6.m3u8
-http://iptv.lancartech.co.id:8080/live/kumon/kumon/89117.ts
-https://mibitivi.xyz/vd/ch/6685.m3u8
-https://static.rctiplus.id/fta_rcti/Videos/sorry.mp4
-https://cmt.mb13.cyou/bW9kZXJv/ku/vd/6685.m3u8
-http://tvnasional.mobie.in/PREMIER_VIDIO/Champions1.m3u8
+http://tvn.x10.bz/vidio/master-6.m3u8
 
 #EXTINF:-1 tvg-name="Champion TV 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Champions_TV_2_%282021%29.png", group-title="Sports",Champions TV 2
-#http://tvn.x10.bz/vidio/master-7.m3u8
-http://iptv.lancartech.co.id:8080/kumon/kumon/89118
-https://mibitivi.xyz/vd/ch/6686.m3u8
-https://static.rctiplus.id/fta_rcti/Videos/sorry.mp4
-https://cmt.mb13.cyou/bW9kZXJv/ku/vd/6686.m3u8
-http://tvnasional.mobie.in/PREMIER_VIDIO/Champions2.m3u8
+http://tvn.x10.bz/vidio/master-7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YCmBNTYC/CHAMPIONSTV3-1.png", group-title="Sports",Champions TV 3
-#http://tvn.x10.bz/vidio/master-8.m3u8
-http://iptv.lancartech.co.id:8080/kumon/kumon/89119
-https://mibitivi.xyz/vd/ch/6786.m3u8
-https://static.rctiplus.id/fta_rcti/Videos/sorry.mp4
-https://cmt.mb13.cyou/bW9kZXJv/ku/vd/6786.m3u8
-http://tvnasional.mobie.in/PREMIER_VIDIO/Champions3.m3u8
+http://tvn.x10.bz/vidio/master-8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0y6DWtYs/usee-Sport.png", Useesports 1
 http://15.235.142.228:8080/live/hometvfree/selaludihati/70.m3u8
