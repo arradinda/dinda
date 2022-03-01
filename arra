@@ -696,13 +696,13 @@ https://on-load.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 #EXTINF:0 tvg-id="SoccerChannel.id" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/soccerchannel.png" group-title="Sports",Soccer Channel
 https://on-load.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
-#EXTINF:-1 tvg-name="Champion TV 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Champions_TV_1_%282021%29.png", ,Champions TV 1
+#EXTINF:-1 tvg-name="Champion TV 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Champions_TV_1_%282021%29.png",Champions TV 1
 http://tvn.x10.bz/vidio/master-6.m3u8
 
-#EXTINF:-1 tvg-name="Champion TV 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Champions_TV_2_%282021%29.png", ,Champions TV 2
+#EXTINF:-1 tvg-name="Champion TV 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Champions_TV_2_%282021%29.png",Champions TV 2
 http://tvn.x10.bz/vidio/master-7.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCmBNTYC/CHAMPIONSTV3-1.png", ,Champions TV 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCmBNTYC/CHAMPIONSTV3-1.png",Champions TV 3
 http://tvn.x10.bz/vidio/master-8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0y6DWtYs/usee-Sport.png", Useesports 1
